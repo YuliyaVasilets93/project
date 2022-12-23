@@ -1,0 +1,15 @@
+/* .mainBrands {
+    width: 100%;
+} */
+.brandsIcon {
+    width: 200px;
+    height: 200px;
+   overflow: hidden;
+   align-items: center;
+} 
+.brandsIcon:hover {
+    opacity: .5;
+    transition: transform .5s;
+   
+   
+} 

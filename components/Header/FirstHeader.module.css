@@ -1,0 +1,26 @@
+.firstHeader {
+    height: 30px;
+    background-color: black;
+    display: flex;
+    font-family:'Gill Sans MT', sans-serif;
+    font-size: 14px;
+    padding-left: 55px;
+    padding-right: 55px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.firstHeader a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.langBlock {
+    display: flex;
+    width: 5%;
+    justify-content: space-between;
+}
+

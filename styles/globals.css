@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Edu+NSW+ACT+Foundation:wght@400;600&family=Montserrat&display=swap');
+
+html,
+body {
+padding: 0;
+  margin: 0;
+ font-family: 'Montserrat', 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ font-size: 17px;
+}
+
+:root {
+  --main-color: color:black;
+}
+* {
+  box-sizing: border-box;
+}
+

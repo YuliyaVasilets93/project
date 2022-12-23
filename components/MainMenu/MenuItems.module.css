@@ -1,0 +1,25 @@
+.mainMenu {
+    
+    display: inline-block;
+    position: relative;
+}
+.menuIcon {
+    width: 250px;
+    height: 350px;
+    overflow: hidden;
+    text-align: center;
+}
+.menuIcon img {
+    display: block;
+}
+.menuIcon:hover {
+    transform: scale(1.2) ;
+    transition: transform .5s;
+   
+   
+} 
+.content {
+    position: absolute;
+    left: 5px;
+    bottom: 5px;
+}

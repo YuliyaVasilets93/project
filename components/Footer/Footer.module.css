@@ -1,0 +1,33 @@
+.mainFooter {
+    width: 100%;
+    height: 300px;
+    border-top: 1px solid rgb(229, 226, 226);
+    padding-right: 55px;
+    display: flex;
+    justify-content: space-between;
+    padding-left: 55px;
+    align-items: flex-start;
+   
+    
+}
+.footerTitle {
+    font-size: 17px;
+    display: flex;
+    align-items: center;
+    }
+
+    .footerMenu a {
+        text-decoration: none;
+        color: black;
+        font-size: 16px;
+        line-height: 30px;
+      
+    }
+
+.footerMenu {
+    margin-top: 20px;
+}
+.footerContacts {
+    padding-left: 10px;
+  
+  }

@@ -1,0 +1,53 @@
+.header {
+    display: flex;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 55px;
+    padding-right: 55px;
+}
+
+.gender {
+    width: 15%;
+    display: flex;
+    justify-content: space-between;
+}
+
+.gender a {
+    color: var(--main-color);
+    text-decoration: none;
+    font-size: 17px;
+    line-height: 17px;
+    cursor: pointer;
+}
+
+.headerIcon {
+    width: 5%;
+    font-size: 18px;
+    display: flex;
+    justify-content: space-between;
+    
+   
+}
+
+.searchInput {
+    height: 40px;
+    width: 350px;
+    size: large;
+    position: relative;
+}
+
+.headerLogo {
+    font-size: 30px;
+    text-decoration: none;
+    color: var(--main-color);
+}
+
+.searchInputIcon {
+    left: 75%;
+    position: absolute;
+   font-size: 20px;
+    color: rgb(105, 105, 105);
+}
